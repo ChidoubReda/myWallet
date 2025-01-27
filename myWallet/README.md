@@ -85,7 +85,7 @@ Le but de cette application est de mieux gérer son budget personnel. Y'a une pa
 ### Étapes
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/solene-drnx/myWallet-Public.git
+   git clone https://github.com/ChidoubReda/myWallet
    ```
 2. Naviguer dans le dossier du projet :
    ```bash
