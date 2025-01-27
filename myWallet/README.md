@@ -76,7 +76,7 @@ Le but de cette application est de mieux gérer son budget personnel. Y'a une pa
 
 ---
 
-## 🌸 Installation
+## ➕ Installation
 
 ### Prérequis
 - Node.js et npm/yarn.
